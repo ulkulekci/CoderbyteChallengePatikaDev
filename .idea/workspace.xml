@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ca2e7cb-9a43-43af-ac1a-8d98c64dae1a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PatikaHizlandirmaCoderbyteChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayCChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayChallengee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BracketMatcher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FunctionChallenge1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MathChallengee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PascalsTrianglee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SearchingChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringChallengee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hız1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hız2.java" afterDir="false" />
-    </list>
+    <list default="true" id="6ca2e7cb-9a43-43af-ac1a-8d98c64dae1a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,11 +78,23 @@
       <workItem from="1666998757990" duration="42000" />
       <workItem from="1667495331170" duration="4038000" />
       <workItem from="1668776918225" duration="228000" />
-      <workItem from="1671103288907" duration="1449000" />
+      <workItem from="1671103288907" duration="1786000" />
     </task>
+    <task id="LOCAL-00001" summary="güncellemeler devam edecektir">
+      <created>1671105496357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671105496357</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="güncellemeler devam edecektir" />
+    <option name="LAST_COMMIT_MESSAGE" value="güncellemeler devam edecektir" />
   </component>
 </project>
